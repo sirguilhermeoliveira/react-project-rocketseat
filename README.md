@@ -6,3 +6,6 @@
 
 Projeto em React. Ministrados pela Rocketseat.
 
+# Instala as dependências e abre o servidor
+npm install
+npm start
